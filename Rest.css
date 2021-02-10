@@ -1,0 +1,46 @@
+ul{
+  background-color: #99ff66;
+  Float:left;
+  height:200%;
+  margin: 0px;
+  margin-left: 5px;
+  padding: 5px;
+  list-style: none;
+  margin-right: 15px;
+
+}
+li{
+  list-style:none;
+  font-family: monospace;
+  font-size:15px;
+  padding: 10px;
+  display: block;
+  padding-top: 20px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+li:hover{
+  background-color: ffffff
+}
+
+a{
+  display: block;
+  text-decoration: none;
+  color:#ff0000
+}
+#Topbar{
+  width: 100%;
+  height: 40px;
+}
+.Top{
+  display: inline;
+  float: right;
+  Height:15px;
+  padding-top: 5px;
+}
+ div{
+   text-align: center;
+ }
+ body{
+   background-color: ffffcc;
+ }
